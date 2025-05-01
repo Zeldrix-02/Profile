@@ -5,6 +5,7 @@ import profileImage from '../assets/me.jpg'; // Correct the path to your image
 const Home = () => (
   <div>
     <main>
+    <h1>Welcome!</h1>
       {/* Profile Container */}
       <div className="profile-container">
         <img 
@@ -14,7 +15,6 @@ const Home = () => (
         />
       </div>
       {/* Main Content */}
-      <h1>Welcome!</h1>
       <p>Hello, I'm Drol Jhon Dala, a web developer passionate about modern web technologies.</p>
     </main>
   </div>
