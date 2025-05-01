@@ -5,7 +5,7 @@ const Projects = () => (
     <h2>Projects</h2>
     <ul>
       <li>
-        <strong>Portfolio Mobile App</strong> – A project for viewing profile in mobiles.
+        <strong>Portfolio Mobile App</strong> – A project for creating profile in mobiles.
         <br />Technologies: Flutter 
       </li>
       <li>
